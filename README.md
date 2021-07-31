@@ -8,3 +8,5 @@
 **Curso da Udemy muito bom**
 
 ----------
+
+## Dia 00 - Criado uma base para todos os projetos. 
