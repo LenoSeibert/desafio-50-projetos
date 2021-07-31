@@ -10,3 +10,9 @@
 ----------
 
 ## Dia 00 - Criado uma base para todos os projetos. 
+**Criado o arquivo index.html, style.css e script.js**
+
+**Arquivos básicos**
+
+## Dia 01 - Expanding Cards
+
