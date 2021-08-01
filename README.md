@@ -19,4 +19,4 @@
 **V2.0 as imagens são via tag img puxando direto do site [Pexels](https://www.pexels.com)**
 
 ## Dia 02 - Progress steps
-
+****
