@@ -95,7 +95,9 @@ nav ul li + li + li {
   transform: translateX(-200%);
 }
 .content img {
-  max-width: 100%;
+  max-width: 80%;
+  box-shadow: 1px 1px 2px;
+  border-radius: 0.25rem;
 }
 .content {
   max-width: 1000px;
