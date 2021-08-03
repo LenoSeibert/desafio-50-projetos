@@ -4,7 +4,7 @@
 
 ----------
 **Um projeto diferente para desafiar o meu conhecimento em HTML, CSS, JavaScript**
-**Baseado no curso [Nome do curso](#).**
+**Baseado no curso [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days).**
 **Curso da Udemy muito bom**
 
 ----------
@@ -23,3 +23,6 @@
 
 ## Dia 03 - Menu rotativo
 **Bem trabalhoso no CSS e muito simples no JS**
+
+## Dia 04 - Hidden search widget
+****
