@@ -25,4 +25,4 @@
 **Bem trabalhoso no CSS e muito simples no JS**
 
 ## Dia 04 - Hidden search widget
-****
+**Projetinho super simples e mas muito funcional**
