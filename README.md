@@ -19,4 +19,7 @@
 **V2.0 as imagens são via tag img puxando direto do site [Pexels](https://www.pexels.com)**
 
 ## Dia 02 - Progress steps
-****
+**Etapas avançar e retroceder simples**
+
+## Dia 03 - Menu rotativo
+**Bem trabalhoso no CSS e muito simples no JS**
