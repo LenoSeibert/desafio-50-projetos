@@ -26,3 +26,6 @@
 
 ## Dia 04 - Hidden search widget
 **Projetinho super simples e mas muito funcional**
+
+## Dia 05 - Blurry Loading
+**Efeito blur na imagem com contador de porcentagem de carregamento**
