@@ -29,3 +29,6 @@
 
 ## Dia 05 - Blurry Loading
 **Efeito blur na imagem com contador de porcentagem de carregamento**
+
+## Dia 06 - Scroll Animation
+**Animação quando se da scroll no site**
