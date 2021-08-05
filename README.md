@@ -32,3 +32,6 @@
 
 ## Dia 06 - Scroll Animation
 **Animação quando se da scroll no site**
+
+## Dia 07 - Split Landing Page
+****
