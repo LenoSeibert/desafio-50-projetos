@@ -34,4 +34,4 @@
 **Animação quando se da scroll no site**
 
 ## Dia 07 - Split Landing Page
-****
+**Landing page simples mas bem bonita**
