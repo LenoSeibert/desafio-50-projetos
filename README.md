@@ -35,3 +35,5 @@
 
 ## Dia 07 - Split Landing Page
 **Landing page simples mas bem bonita**
+
+## Dia 08 - Form wave animation
