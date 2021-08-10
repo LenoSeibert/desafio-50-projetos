@@ -41,3 +41,6 @@
 
 ## Dia 09 - Sound Board
 **Reproduzir som**
+
+## Dia 10 - Dad Jokes
+****
