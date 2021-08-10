@@ -43,4 +43,4 @@
 **Reproduzir som**
 
 ## Dia 10 - Dad Jokes
-****
+**ATENÇÃO Piadas ruins - Consulta de API publica com JS**
