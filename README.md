@@ -47,3 +47,6 @@
 
 ## Dia 11 - Event KeyCodes
 **Captura as teclas digitadas e exibe as info em tela**
+
+## Dia 12 - FAQ Collapse
+**Simples e funcional pagina de FAQ**
