@@ -50,3 +50,5 @@
 
 ## Dia 12 - FAQ Collapse
 **Simples e funcional pagina de FAQ**
+
+## Dia 13 - Random Choice Picker
