@@ -52,3 +52,4 @@
 **Simples e funcional pagina de FAQ**
 
 ## Dia 13 - Random Choice Picker
+**Simples sistema de sorteio de nomes, números etc..**
