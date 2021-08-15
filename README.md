@@ -53,3 +53,6 @@
 
 ## Dia 13 - Random Choice Picker
 **Simples sistema de sorteio de nomes, números etc..**
+
+## Dia 14 - Animated navigation
+**Menu animado**
