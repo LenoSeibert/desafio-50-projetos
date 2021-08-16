@@ -58,4 +58,4 @@
 **Menu animado**
 
 ## Dia 15 - Incrementing Counter
-**Conta seguidores**
+**Contador Social**
