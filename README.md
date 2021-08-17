@@ -76,3 +76,7 @@
 ## Dia 15 - Incrementing Counter
 
 **Contador Social Básico mas funcional**
+
+## Dia 16 - Drink water
+
+**Tome mais agua**
