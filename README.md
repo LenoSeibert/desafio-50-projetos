@@ -80,3 +80,7 @@
 ## Dia 16 - Drink water
 
 **Tome mais agua**
+
+## Dia 17 - Movie App
+
+**App de videos utilizando API externa**
