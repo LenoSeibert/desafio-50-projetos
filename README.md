@@ -84,3 +84,5 @@
 ## Dia 17 - Movie App
 
 **App de videos utilizando API externa**
+
+## Dia 18 - Background slider
