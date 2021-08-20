@@ -14,10 +14,9 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
-  background-image: url(https://images.pexels.com/photos/6675842/pexels-photo-6675842.jpeg?cs=srgb&dl=pexels-olya-kobruseva-6675842.jpg&fm=jpg);
   background-position: center center;
   background-size: cover;
-  transition: 0.5s;
+  transition: 0.4s;
 }
 body::before {
   content: '';
