@@ -86,3 +86,7 @@
 **App de videos utilizando API externa**
 
 ## Dia 18 - Background slider
+
+**Simples slider de imagens de fundo**
+
+## Dia 19 Theme Clock
